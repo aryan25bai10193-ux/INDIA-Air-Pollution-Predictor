@@ -71,5 +71,4 @@ http://localhost:8501
 
 
 
-Aryan
-Machine Learning Project – AQI Prediction
+
